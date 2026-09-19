@@ -1,4 +1,4 @@
-#ktra1909
+//ktra1909
 #include <stdio.h>
 #include <string.h>
 #define MAX 100
